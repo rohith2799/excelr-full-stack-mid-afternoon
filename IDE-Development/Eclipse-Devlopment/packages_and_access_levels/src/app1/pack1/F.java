@@ -1,0 +1,11 @@
+package app1.pack1;
+
+public class F
+{
+
+	public static void main(String[] args)
+	{
+		System.out.println("from.appl.pack1.F");
+
+	}
+}

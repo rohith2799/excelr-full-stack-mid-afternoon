@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\ExcelrFSD\Excelr_MidAfternoon\IDE-Development\Eclipse-Devlopment\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2380175872.index
+790912946.index
+4180439787.index
